@@ -6,3 +6,5 @@ The game will include:
 - A snake
 - A red apple
 - Sound effects
+
+I made this project to get a better understanding of Python and PyGame, as I want to create more advanced projects in the future.
